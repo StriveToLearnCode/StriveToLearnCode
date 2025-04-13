@@ -1,10 +1,14 @@
-<picture>
+<div style="display:flex;">
+<picture style="flex:1;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
-## <img src="./assets/cool.gif" alt="Profile Image" style="width:50px;height:50px"> Hi I am StriveToLearnCode 👋
+<div style="flex:1;">
+  <img src="./assets/Versakit.jpg" alt="Versakit.">
+</div>
+</div>
+## <img src="./assets/cool.gif" alt="Profile Image" style="width:20px;height:20px"> Hi I am StriveToLearnCode 👋
 
 Here are some ideas to get you started:
 
