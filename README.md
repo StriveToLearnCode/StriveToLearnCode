@@ -1,4 +1,13 @@
-## Hi there 👋
+## ![cool](./assets/cool.gif) Hi I am StriveToLearnCode 👋
+
+Here are some ideas to get you started:
+
+🔭 I’m currently working on web front-end development.
+🤔 I’m looking for help with finding a suitable job.
+💬 Ask me about anything.
+📫 How to reach me:
+📧 Email: xinyahuang@88.com
+📱 WeChat: hxy1747274890
 
 <!--
 **StriveToLearnCode/StriveToLearnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
