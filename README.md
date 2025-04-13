@@ -1,10 +1,10 @@
 <div style="display:flex; justify-content: space-between;">
-  <picture style="flex:1;">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="width:100%; height:auto;">
   </picture>
-  <div style="flex:1;">
+  <div>
     <img src="./assets/Versakit.jpg" alt="Versakit" style="width:100%; height:auto;">
   </div>
 </div>
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - 📧 Email: [xinyahuang@88.com](mailto:xinyahuang@88.com)
 - 📱 WeChat: hxy1747274890
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding challenges!
 
 <!--
