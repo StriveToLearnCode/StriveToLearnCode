@@ -1,11 +1,15 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
+      <picture style="width: 500px">
+        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+        <img alt="github-snake" src="github-snake.svg" />
+      </picture>
     </td>
     <td>
         <a href="https://versakit.github.io/Versakit/">
-          <img src="./Versakit.jpg" alt="Versakit" width="400px">
+          <img src="./assets/Versakit.jpg" alt="Versakit" width="400px">
         </a>
     </td>
   </tr>
