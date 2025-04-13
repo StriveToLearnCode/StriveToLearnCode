@@ -1,15 +1,15 @@
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <picture style="flex: 1;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;">
-  </picture>
-  <div style="flex: 1; padding-left: 20px;">
-    <a href="https://versakit.github.io/Versakit/">
-      <img src="./assets/Versakit.jpg" alt="Versakit" style="width: 100%; height: auto;">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./assets/github-contribution-grid-snake-dark.svg" width="500px">
+    </td>
+    <td>
+        <a href="https://versakit.github.io/Versakit/">
+          <img src="./Versakit.jpg" alt="Versakit" width="400px">
+        </a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="./assets/cool.gif" alt="Profile Image" style="width:20px;height:20px"> Hi I am StriveToLearnCode 👋
 
