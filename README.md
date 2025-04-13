@@ -1,11 +1,13 @@
 <div style="display:flex; justify-content: space-between;">
-  <picture>
+  <picture  style="flex: 1; max-width: 50%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="width:100%; height:auto;">
   </picture>
-  <div>
-    <img src="./assets/Versakit.jpg" alt="Versakit" style="width:100%; height:auto;">
+  <div style="flex: 1; max-width: 50%; padding-left: 20px;">
+    <a href="https://versakit.github.io/Versakit/">
+      <img src="./assets/Versakit.jpg" alt="Versakit" style="width:100%; height:auto;">
+    </a>
   </div>
 </div>
 
