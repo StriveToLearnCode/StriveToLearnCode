@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:14b8a6&text=StriveToLearnCode&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Web%20Front-End%20Development%20%7C%20AI%20Frontend%20%7C%20Product%20Practice&descSize=15&descAlignY=58" alt="StriveToLearnCode" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=专注+Vue+%2F+React+%2F+TypeScript+%2F+Next.js;关注+AI+Frontend+与+AI+Product+实践;持续练习+UI+组件化+CLI+工具+代码质量" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Vue+%2F+React+%2F+TypeScript+%2F+Next.js;AI+Frontend+%2F+AI+Product+Practice;UI+Components+%2F+CLI+Tools+%2F+Code+Quality" alt="Typing SVG" />
 
 <br />
 
@@ -96,12 +96,13 @@
 </picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StriveToLearnCode&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;cache_seconds=7200" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriveToLearnCode&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;cache_seconds=7200" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StriveToLearnCode&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StriveToLearnCode&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StriveToLearnCode&amp;hide_border=true&amp;theme=tokyonight-duo&amp;background=00000000" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StriveToLearnCode&theme=github_dark" alt="Most commit language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StriveToLearnCode&theme=github_dark&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
