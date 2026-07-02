@@ -1,100 +1,93 @@
 <div align="center">
 
-# StriveToLearnCode
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1d4ed8,100:14b8a6&text=StriveToLearnCode&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Web%20Front-End%20Development%20%7C%20AI%20Frontend%20%7C%20Product%20Practice&descSize=15&descAlignY=58" alt="StriveToLearnCode" />
 
-**Web Front-End Development · AI Product Interfaces · Practical Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=专注+Vue+%2F+React+%2F+TypeScript+%2F+Next.js;关注+AI+Frontend+与+AI+Product+实践;持续练习+UI+组件化+CLI+工具+代码质量" alt="Typing SVG" />
 
-I build and practice with modern frontend projects, focusing on clean UI, component structure, and useful product workflows.
+<br />
 
-[![Email](https://img.shields.io/badge/Email-xinyahuang%4088.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:xinyahuang@88.com)
-![Open to Work](https://img.shields.io/badge/Open%20to-Frontend%20Opportunities-16A34A?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=StriveToLearnCode&style=flat-square&color=0f172a)
+![Profile Views](https://komarev.com/ghpvc/?username=StriveToLearnCode&style=for-the-badge&color=0f172a)
+[![Email](https://img.shields.io/badge/Email-xinyahuang%4088.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xinyahuang@88.com)
+![Open to Work](https://img.shields.io/badge/正在寻找-前端相关机会-16A34A?style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I am focused on **Web Front-End Development**, with a growing interest in how AI can be integrated into real product workflows.
+### Web Front-End Development
 
-My current work and practice are mainly around Vue, React, TypeScript, Next.js, UI implementation, component design, and frontend engineering habits. I care about building interfaces that are clear, maintainable, and close to real product requirements.
+前端开发学习与实践中，关注现代前端、AI 产品界面、组件化 UI 和实用工程工具。
 
-I am currently looking for a suitable frontend-related opportunity where I can keep improving through practical work, product thinking, and engineering discipline.
+</div>
 
-Outside of project work, I enjoy **coding challenges** because they help me stay sharp with problem-solving and fundamentals.
+## 技术方向
 
-## Current Focus
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>目前主要使用</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>正在学习</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Go%20Basics-111827?style=flat-square&logo=go&logoColor=00ADD8" alt="Go basics" />
+        <img src="https://img.shields.io/badge/Next.js%20API-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js API" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>感兴趣</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Frontend-111827?style=flat-square&logo=openai&logoColor=38BDF8" alt="AI Frontend" />
+        <img src="https://img.shields.io/badge/AI%20Product-111827?style=flat-square&logo=openai&logoColor=10B981" alt="AI Product" />
+        <img src="https://img.shields.io/badge/Prompt-111827?style=flat-square&logo=openai&logoColor=A78BFA" alt="Prompt" />
+        <img src="https://img.shields.io/badge/CLI%20Tools-111827?style=flat-square&logo=gnubash&logoColor=white" alt="CLI Tools" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Building frontend projects with **Vue, React, TypeScript, and Next.js**
-- Exploring **AI frontend engineering**, AI productization, prompts, and AI-assisted workflows
-- Practicing full-stack basics with **Next.js API routes, Supabase, Node.js, and Go fundamentals**
-- Improving page reconstruction, component splitting, interaction details, and code quality
-- Building small engineering tools such as CLI utilities and project inspection helpers
+## 项目 / 练习
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>OfferFlow</h3>
+      <p>探索 AI 辅助简历与求职流程平台。</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Workflow-0f172a?style=flat-square" alt="AI Workflow" />
+        <img src="https://img.shields.io/badge/Job%20Search-1d4ed8?style=flat-square" alt="Job Search" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Project Doctor</h3>
+      <p>练习项目结构与基础配置检查 CLI 工具。</p>
+      <p>
+        <img src="https://img.shields.io/badge/CLI-0f172a?style=flat-square" alt="CLI" />
+        <img src="https://img.shields.io/badge/Code%20Quality-334155?style=flat-square" alt="Code Quality" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>UI / Components</h3>
+      <p>持续练习页面还原、组件拆分、交互实现和布局。</p>
+      <p>
+        <img src="https://img.shields.io/badge/UI-0f172a?style=flat-square" alt="UI" />
+        <img src="https://img.shields.io/badge/Components-0f766e?style=flat-square" alt="Components" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Currently Working With
-
-<p>
-  <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/API%20Design-0F172A?style=flat-square" alt="API Design" />
-  <img src="https://img.shields.io/badge/Database%20Basics-475569?style=flat-square" alt="Database Basics" />
-</p>
-
-### Interested In
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Frontend-2563EB?style=flat-square" alt="AI Frontend" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI%20Workflow-0F766E?style=flat-square" alt="AI Workflow" />
-  <img src="https://img.shields.io/badge/CLI%20Tools-111827?style=flat-square" alt="CLI Tools" />
-  <img src="https://img.shields.io/badge/Code%20Quality-334155?style=flat-square" alt="Code Quality" />
-</p>
-
-## Projects / Practice
-
-### OfferFlow
-
-Building and exploring an **AI-assisted resume and job application workflow platform**.
-
-The direction includes resume generation, job description matching, application tracking, interview review, and a more complete job-search workflow. The focus is not only the UI, but also how AI features can fit into a practical product flow.
-
-### Project Doctor
-
-Practicing a CLI tool for checking basic project structure and configuration.
-
-The goal is to improve my understanding of engineering conventions, project health checks, command-line interaction, and small developer tools.
-
-### UI / Component Practice
-
-Continuously practicing page reconstruction, component splitting, interaction implementation, responsive layout, and frontend code organization.
-
-This is where I work on turning visual requirements into maintainable frontend code with clearer structure and better details.
-
-## Learning Path
-
-- Strengthen frontend fundamentals through real pages, components, and interactions
-- Build more complete Next.js applications with API routes and data persistence
-- Learn how AI features can be designed as useful product capabilities, not only demos
-- Improve engineering habits around structure, naming, reuse, testing, and review
-- Keep practicing algorithms and coding challenges for problem-solving discipline
-
-## GitHub Activity
+## GitHub 数据
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StriveToLearnCode/StriveToLearnCode/output/github-contribution-grid-snake-dark.svg">
@@ -103,22 +96,32 @@ This is where I work on turning visual requirements into maintainable frontend c
 </picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StriveToLearnCode&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriveToLearnCode&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StriveToLearnCode&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;cache_seconds=7200" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriveToLearnCode&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=00000000&amp;cache_seconds=7200" alt="Top languages" />
 </p>
 
-## Contact
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StriveToLearnCode&amp;hide_border=true&amp;theme=tokyonight-duo&amp;background=00000000" alt="GitHub streak" />
+</p>
 
-I am currently open to suitable frontend-related job opportunities and practical project collaboration.
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StriveToLearnCode&amp;theme=transparent" alt="GitHub profile summary" />
+</p>
 
-- Email: [xinyahuang@88.com](mailto:xinyahuang@88.com)
-- WeChat: `hxy1747274890`
-- GitHub: [@StriveToLearnCode](https://github.com/StriveToLearnCode)
+## 联系我
 
----
+<p align="center">
+  <a href="mailto:xinyahuang@88.com">
+    <img src="https://img.shields.io/badge/Email-xinyahuang%4088.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/WeChat-hxy1747274890-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  <a href="https://github.com/StriveToLearnCode">
+    <img src="https://img.shields.io/badge/GitHub-StriveToLearnCode-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <div align="center">
 
-**Keep learning. Build carefully. Ship useful things.**
+<sub>持续学习，认真构建，寻找合适的前端相关工作机会。</sub>
 
 </div>
