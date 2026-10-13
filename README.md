@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 # Hey, I'm StriveToLearnCode 👋
@@ -43,4 +43,3 @@
 *Keep building things that matter.* ✨
 
 </div>
-```
