@@ -1,34 +1,28 @@
+<p>
+  <img src="./assets/strivo-header.svg" alt="Strivo — Building useful tools. Sharing what works." width="100%" />
+</p>
 
-<div align="center">
+独立开发者，专注 **开发者工具、AI 应用与桌面产品**。
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=StriveToLearnCode&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20Ideas%20Into%20Products&descSize=16&descAlignY=60" />
+把日常遇到的问题，做成能反复使用的工具。这里记录我的产品、开源实践，以及从想法到交付的过程。
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+Product+Builder;Indie+Developer;Turning+Ideas+Into+Reality+✨" />
+### Selected work
 
-<br/>
+| 项目 | 方向 | 简介 |
+| --- | --- | --- |
+| [红果短剧 Mac 版](https://github.com/StriveToLearnCode/hongguo-short-drama-macos) | 桌面产品 | 独立维护的非官方 macOS 客户端，支持搜索、收藏、历史续播与置顶小窗；本仓库用于发行与反馈。 |
+| [Versakit Vue](https://github.com/Versakit/Versakit-Vue) | 开源贡献 | 面向桌面端的 Vue 3 组件库；参与组件无障碍与单元测试改进。 |
+| [Figma Text Naming](https://github.com/StriveToLearnCode/figma-text-naming) | AI 工作流 | 用 Codex Skill 审核与命名 Figma 动态文案，准备 PageCenter 文案键与富文本数据。 |
+| [Project Doctor](https://github.com/StriveToLearnCode/project-doctor) | 开发者工具 | TypeScript 项目诊断 CLI，检查依赖、运行环境与工程文件，支持多种报告格式。 |
 
-热爱设计与代码，喜欢把有趣的想法变成真正能用的产品。
+### How I build
 
-专注全栈开发，探索 AI 产品、开发者工具与独立开发。
+- **从真实问题出发** — 关注使用场景，让工具解决具体问题。
+- **重视完整体验** — 从界面与交互，到交付与持续迭代。
+- **分享有用的实践** — 把组件、脚本和工作流沉淀成可复用的东西。
 
-<br/>
+**Toolbox** · TypeScript / JavaScript · Vue / React · Node.js · Go
 
-![Vue](https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8)
+---
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StriveToLearnCode)
-[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xinyahuang@88.com)
-
-<br/>
-
-*Keep building things that matter.* ✨
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:2563eb,100:0f172a" />
-
-</div>
+[查看全部项目](https://github.com/StriveToLearnCode?tab=repositories) · [Email](mailto:xinyahuang@88.com)
